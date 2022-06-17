@@ -1,0 +1,43 @@
+
+:root {
+
+  /**
+   * Colors 
+   */
+
+
+  --live-indicator-shadow: hsla(0, 79%, 63%, 0.5);
+  --rich-black-fogra-30:   #18191D;
+  --rich-black-fogra-29:   #18191D;
+  --live-indicator:        hsl(0, 79%, 63%);
+  --oxford-blue-50:        #18191D;
+  --oxford-blue:           #242834;
+  --light-azure:           linear-gradient(120deg, #d4fc79 0%, #96e6a1 100%);
+  --off-white:             hsl(0, 0%, 88%);
+  --yellow:                hsl(45, 100%, 54%);
+  --white:                 hsl(0, 0%, 100%);
+  --azure:                 linear-gradient(120deg, #d4fc79 0%, #96e6a1 100%);
+
+  /**
+   * Typography 
+   */
+
+  --ff-inter: "Inter", sans-serif;
+
+  --section-heading: 30px;
+  --fs-lg:           22px;
+  --fs-md:           17px;
+  --fs-sm:           14px;
+  --fs-x-sm:         12px;
+  
+  --fw-7: 700;
+  --fw-6: 600;
+  --fw-5: 500;
+
+  /**
+   * Spacing 
+   */
+
+  --px: 120px; /* padding-left & padding-right */
+
+}
